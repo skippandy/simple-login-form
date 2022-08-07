@@ -34,6 +34,10 @@ h3{
     text-decoration: none;
     border:2px solid rgb(83, 135, 181);
 }
+.first-input input:focus {
+    border: 3px solid blue;
+}
+
 .remember-pass{
     margin: 15px 0px 15px 30px;
 }
