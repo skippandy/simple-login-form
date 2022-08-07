@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black
+}
+main{
+    width: 400px;
+    border-radius: 10px;
+    /* border: 3px solid red; */
+    margin: 100px auto;
+    background-color:white;
+    
+}
+
+img{
+    margin-top: 40px;
+    width:180px;
+    height: 29%;
+    border-radius: 100%;
+    
+}
+.pic{
+    margin: 40px 10px 0px 100px;
+    /* margin: 10px auto; */
+}
+h3{
+    text-align: center;
+}
+.first-input input{
+    width:330px;
+    margin-left: 33px;
+    padding: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    border:2px solid rgb(83, 135, 181);
+}
+.remember-pass{
+    margin: 15px 0px 15px 30px;
+}
+button{
+        width: 330px;
+        margin-left: 33px;
+        padding: 8px;
+        border-radius: 8px;
+        background-color: rgb(83, 135, 181);
+        color: white;
+        border: none;
+}
+.forget-pass{
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.forget-pass a{
+    text-decoration: none;
+}
